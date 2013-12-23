@@ -1,0 +1,10 @@
+#N canvas 165 281 450 300 10;
+#X obj 105 96 + 2;
+#X obj 141 105 + 2;
+#X obj 233 101 + 2;
+#X obj 268 103 + 2;
+#X obj 320 104 + 2;
+#X obj 182 153 + 1;
+#X obj 201 23 inlet degree;
+#X obj 119 20 inlet root;
+#X connect 7 0 0 0;
